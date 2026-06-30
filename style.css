@@ -31,12 +31,10 @@ backdrop-filter:blur(12px);
 z-index:999;
 }
 
-.logo{
-font-family:'Cormorant Garamond',serif;
-font-size:34px;
-font-weight:700;
-color:#fff;
-letter-spacing:3px;
+.logo img{
+    height:60px;
+    width:auto;
+    display:block;
 }
 
 .menu{
