@@ -1,2 +1,7 @@
 # hasleather-v2
-Premium website for Has Leather since 1980
+HAS LEATHER
+
+Since 1980
+
+Premium Leather Jackets
+Made in Türkiye
