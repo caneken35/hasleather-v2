@@ -32,8 +32,8 @@ z-index:999;
 }
 
 .logo img{
-    width: 220px;
-    max-width: 80%;
+    width: 280px;
+    max-width: 90%;
     height: auto;
     display: block;
     margin: 0 auto 30px;
@@ -80,7 +80,7 @@ color:white;
 
 font-family:'Cormorant Garamond',serif;
 
-font-size:90px;
+font-size:72px;
 
 letter-spacing:6px;
 
