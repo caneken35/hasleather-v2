@@ -32,9 +32,11 @@ z-index:999;
 }
 
 .logo img{
-    height:60px;
-    width:auto;
-    display:block;
+    width: 220px;
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px;
 }
 
 .menu{
@@ -56,28 +58,13 @@ color:#c89b63;
 /* HERO */
 
 .hero{
-
-height:100vh;
-
-background:
-
-linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
-
-url("images/hero.jpg");
-
-background-size:cover;
-
-background-position:center;
-
-display:flex;
-
-justify-content:center;
-
-align-items:center;
-
-text-align:center;
-
-padding:30px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 80px 20px;
+}
 
 }
 
