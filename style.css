@@ -320,3 +320,26 @@ font-size:38px;
 }
 
 }
+#reviews{
+
+padding:90px 20px;
+
+text-align:center;
+
+background:#ffffff;
+
+}
+
+#reviews h2{
+
+margin-bottom:20px;
+
+}
+
+#reviews p{
+
+margin-bottom:35px;
+
+font-size:22px;
+
+}
