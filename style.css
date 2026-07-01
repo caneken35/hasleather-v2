@@ -363,3 +363,16 @@ font-size:22px;
     font-size:18px;
     font-weight:600;
 }
+footer{
+background:#111;
+color:#ccc;
+text-align:center;
+padding:25px 20px;
+font-size:14px;
+margin-top:60px;
+}
+
+footer p{
+margin:0;
+letter-spacing:0.5px;
+}
