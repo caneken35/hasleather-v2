@@ -376,3 +376,19 @@ footer p{
 margin:0;
 letter-spacing:0.5px;
 }
+.language{
+    color:#fff;
+    font-size:14px;
+    font-weight:600;
+    margin-top:8px;
+}
+
+.language a{
+    color:#fff;
+    text-decoration:none;
+    margin:0 4px;
+}
+
+.language a:hover{
+    color:#d4a373;
+}
