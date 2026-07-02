@@ -1,18 +1,18 @@
 const photos = [
-"1.JPG",
-"2.JPG",
-"3.JPG",
-"4.JPG",
-"5.JPG",
-"6.JPG",
-"7.JPG",
-"8.JPG",
-"9.JPG",
-"10.JPG",
-"11.JPG",
-"12.JPG",
-"13.JPG",
-"14.JPG"
+"images/1.JPG",
+"images/2.JPG",
+"images/3.JPG",
+"images/4.JPG",
+"images/5.JPG",
+"images/6.JPG",
+"images/7.JPG",
+"images/8.JPG",
+"images/9.JPG",
+"images/10.JPG",
+"images/11.JPG",
+"images/12.JPG",
+"images/13.JPG",
+"images/14.JPG"
 ];
 
 let start = 0;
