@@ -29,5 +29,5 @@ photos[(start+i)%photos.length];
 start=(start+1)%photos.length;
 
 }
-
+rotateGallery();
 setInterval(rotateGallery,4000);
